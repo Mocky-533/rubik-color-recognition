@@ -4,9 +4,11 @@
 
 The code is only for image processing, GUI and machanic operating parts are created by my parterner Siyi Liu using unity
 
+This program reads image file named "Screenshot_.png" then split nine blocks and generate a json file to give out the colors of each block by numbers in the table below.
+
 This python code can only run properly in specific circumstances, or the RGB data will differ from those in train.txt.
 
-The color-number corresponding relation is shown below.
+The color-number corresponding relation table is shown below.
 |num|color|
 |---|-----|
 |1|blue|
