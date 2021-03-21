@@ -8,6 +8,8 @@ This program reads image file named "Screenshot_.png" then split nine blocks and
 
 This python code can only run properly in specific circumstances, or the RGB data will differ from those in train.txt.
 
+`Ctrl+C` to kill the program, for now.
+
 The color-number corresponding relation table is shown below.
 |num|color|
 |---|-----|
