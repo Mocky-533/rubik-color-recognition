@@ -19,4 +19,3 @@ The color-number corresponding relation table is shown below.
 |4|orange|
 |5|white|
 |6|yellow|
-
